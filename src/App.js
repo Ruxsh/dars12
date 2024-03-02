@@ -1,20 +1,23 @@
-// import logo from './logo.svg';
-// import monitor from './monitor.png';
-import monitor from "./monitor.png";
-import ipad from "./ipad.jpg";
-import phone from "./phone.svg";
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <header>
-      <p>solo</p>
-      <img src = {monitor}></img>
-      <img src = {phone}></img>
-      <img src = {ipad}></img>
-      <p>solo</p>
-     </header>
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
     </div>
   );
 }
