@@ -7,6 +7,7 @@ function App() {
     <div className="App">
      <header>
       <p>solo</p>
+      <p>solo</p>
       {/* <img  src={monitor}/> */}
      </header>
     </div>
