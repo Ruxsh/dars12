@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-import monitor from './monitor.png';
+// import monitor from './monitor.png';
 import './App.css';
 
 function App() {
@@ -8,7 +8,6 @@ function App() {
      <header>
       <p>solo</p>
       <p>solo</p>
-      {/* <img  src={monitor}/> */}
      </header>
     </div>
   );
