@@ -1,7 +1,8 @@
 // import logo from './logo.svg';
 // import monitor from './monitor.png';
 import monitor from "./monitor.png";
-import ipad from "./ipad.jpg"
+import ipad from "./ipad.jpg";
+import phone from "./phone.svg";
 import './App.css';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
      <header>
       <p>solo</p>
       <img src = {monitor}></img>
+      <img src = {phone}></img>
       <img src = {ipad}></img>
       <p>solo</p>
      </header>
