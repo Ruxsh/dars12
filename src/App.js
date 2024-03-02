@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 // import monitor from './monitor.png';
-import monitor from './monitor.png'
+import monitor from "./monitor.png";
 import './App.css';
 
 function App() {
