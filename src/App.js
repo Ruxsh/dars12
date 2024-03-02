@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
      <header>
-      <img  src={monitor}/>
+      <p>solo</p>
+      {/* <img  src={monitor}/> */}
      </header>
     </div>
   );
